@@ -31,6 +31,11 @@ doi: ""  # TODO: add DOI after Zenodo assigns it
 date-released: "2026-02-23"
 version: "1.0.0"
 license: CC-BY-4.0
+published-in: "Document Analysis and Recognition – ICDAR 2024"
+publication-date: "2024"
+publisher: "Springer Nature Switzerland"
+volume: "14189"
+pages: "429–444"
 keywords:
   - handwritten text recognition
   - HTR

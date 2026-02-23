@@ -55,10 +55,10 @@
 
     "related_identifiers": [
       {
-        "identifier": "2407.15608",
+        "identifier": "10.1007/978-3-031-70536-6_26",
         "relation": "isSupplementTo",
-        "resource_type": "publication-preprint",
-        "scheme": "arXiv"
+        "resource_type": "publication-article",
+        "scheme": "doi"
       },
       {
         "identifier": "https://www.openstreetmap.org/",

@@ -159,7 +159,8 @@ This dataset was introduced in the following paper:
 
 > Nauman Riaz, Saifullah Saifullah, Stefan Agne, Andreas Dengel, and Sheraz Ahmed.  
 > **StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation.**  
-> arXiv:2407.15608, 2024.
+> In: *Document Analysis and Recognition – ICDAR 2024*. Springer Nature Switzerland, 2024, pp. 429–444.  
+> DOI: [10.1007/978-3-031-70536-6_26](https://doi.org/10.1007/978-3-031-70536-6_26)
 
 ## Acknowledgements
 
