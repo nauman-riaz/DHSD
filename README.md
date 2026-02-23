@@ -1,11 +1,11 @@
-# DHSD — German Handwriting Street-name Dataset
+# Deutscher Handschriften-Datensatz (DHSD) — German Handwriting Street-name Dataset
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Overview
 
-The **German Handwriting Street-name Dataset (DHSD)** is a novel handwritten text recognition (HTR) dataset for the German language. It contains **5,939 handwritten word images** contributed by **37 writers**, each providing an average of **~160 words**. All words are names of cities and streets in Germany, extracted from the [OpenStreetMap (OSM)](https://www.openstreetmap.org/) database. The words were carefully selected to ensure that **every letter of the German alphabet** — including umlauts (ä, ö, ü) and the Eszett (ß) — is represented.
+The **Deutscher Handschriften-Datensatz (DHSD) — German Handwriting Street-name Dataset** is a novel handwritten text recognition (HTR) dataset for the German language. It contains **5,939 handwritten word images** contributed by **37 writers**, each providing an average of **~160 words**. All words are names of cities and streets in Germany, extracted from the [OpenStreetMap (OSM)](https://www.openstreetmap.org/) database. The words were carefully selected to ensure that **every letter of the German alphabet** — including umlauts (ä, ö, ü) and the Eszett (ß) — is represented.
 
 ## Dataset Statistics
 
