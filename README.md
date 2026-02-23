@@ -89,8 +89,7 @@ The dataset is split into **training (80%)** and **testing (20%)** subsets. A re
 Download the dataset from Zenodo:
 
 ```bash
-# Replace XXXXXXX with the actual Zenodo DOI
-wget https://zenodo.org/record/XXXXXXX/files/DHSD.zip
+wget https://zenodo.org/record/18743313/files/DHSD.zip
 unzip DHSD.zip
 ```
 
