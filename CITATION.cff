@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: "DHSD — German Handwriting Street-name Dataset"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Nauman
+    family-names: Riaz
+    orcid: "https://orcid.org/0009-0000-1416-3220"
+    affiliation: "German Research Center for Artificial Intelligence (DFKI) & RPTU Kaiserslautern-Landau"
+  - given-names: Saifullah
+    family-names: Saifullah
+    orcid: "https://orcid.org/0000-0002-6100-8255"
+    affiliation: "German Research Center for Artificial Intelligence (DFKI) & RPTU Kaiserslautern-Landau"
+  - given-names: Stefan
+    family-names: Agne
+    orcid: "https://orcid.org/0000-0002-9697-4285"
+    affiliation: "German Research Center for Artificial Intelligence (DFKI) & DeepReader GmbH"
+  - given-names: Andreas
+    family-names: Dengel
+    orcid: "https://orcid.org/0000-0003-3098-2458"
+    affiliation: "German Research Center for Artificial Intelligence (DFKI) & RPTU Kaiserslautern-Landau"
+  - given-names: Sheraz
+    family-names: Ahmed
+    orcid: "https://orcid.org/0000-0002-4239-6520"
+    affiliation: "German Research Center for Artificial Intelligence (DFKI) & DeepReader GmbH"
+repository-code: ""  # TODO: add GitHub URL if applicable
+url: ""  # TODO: add Zenodo URL after upload
+doi: ""  # TODO: add DOI after Zenodo assigns it
+date-released: "2026-02-23"
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - handwritten text recognition
+  - HTR
+  - German handwriting
+  - OCR
+  - street names
+  - city names
+  - OpenStreetMap
+  - image dataset
+  - deep learning
+abstract: >-
+  The German Handwriting Street-name Dataset (DHSD) is a novel
+  handwritten text recognition dataset for the German language
+  containing 5,939 word images contributed by 37 writers. All
+  words are names of cities and streets in Germany, extracted
+  from OpenStreetMap. The words were carefully selected so that
+  every letter of the German alphabet — including umlauts
+  (ä, ö, ü) and Eszett (ß) — is represented.

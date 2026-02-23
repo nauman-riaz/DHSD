@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "title": "DHSD — German Handwriting Street-name Dataset",
+
+    "upload_type": "dataset",
+    "resource_type": "dataset",
+
+    "description": "The German Handwriting Street-name Dataset (DHSD) is a handwritten text recognition (HTR) dataset for the German language. It contains 5,939 handwritten word images contributed by 37 writers, each providing approximately 160 words. All words are names of cities and streets in Germany derived from the OpenStreetMap (OSM) database. The dataset was designed to cover the complete German alphabet including umlauts (ä, ö, ü) and Eszett (ß). Images are provided as 256×64 PNG (RGBA) files with annotations in CSV format linking each image to its transcription and writer ID. The dataset is split into 80% training and 20% testing subsets.",
+
+    "creators": [
+      {
+        "name": "Riaz, Nauman",
+        "orcid": "0009-0000-1416-3220",
+        "affiliation": "German Research Center for Artificial Intelligence (DFKI) & RPTU Kaiserslautern-Landau"
+      },
+      {
+        "name": "Saifullah, Saifullah",
+        "orcid": "0000-0002-6100-8255",
+        "affiliation": "German Research Center for Artificial Intelligence (DFKI) & RPTU Kaiserslautern-Landau"
+      },
+      {
+        "name": "Agne, Stefan",
+        "orcid": "0000-0002-9697-4285",
+        "affiliation": "German Research Center for Artificial Intelligence (DFKI) & DeepReader GmbH"
+      },
+      {
+        "name": "Dengel, Andreas",
+        "orcid": "0000-0003-3098-2458",
+        "affiliation": "German Research Center for Artificial Intelligence (DFKI) & RPTU Kaiserslautern-Landau"
+      },
+      {
+        "name": "Ahmed, Sheraz",
+        "orcid": "0000-0002-4239-6520",
+        "affiliation": "German Research Center for Artificial Intelligence (DFKI) & DeepReader GmbH"
+      }
+    ],
+
+    "access_right": "open",
+    "license": "cc-by-4.0",
+
+    "keywords": [
+      "handwritten text recognition",
+      "HTR",
+      "German handwriting",
+      "OCR",
+      "street names",
+      "OpenStreetMap",
+      "word recognition"
+    ],
+
+    "language": "de",
+    "version": "1.0.0",
+
+    "notes": "Geographic names are sourced from OpenStreetMap (© OpenStreetMap contributors, ODbL). All writers provided informed consent for public release of their handwriting.",
+
+    "related_identifiers": [
+      {
+        "identifier": "2407.15608",
+        "relation": "isSupplementTo",
+        "resource_type": "publication-preprint",
+        "scheme": "arXiv"
+      },
+      {
+        "identifier": "https://www.openstreetmap.org/",
+        "relation": "isDerivedFrom",
+        "resource_type": "dataset",
+        "scheme": "url"
+      }
+    ]
+  }
+}
